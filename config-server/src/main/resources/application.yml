@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+spring:
+  cloud:
+    server:
+      git: https://github.com/oswaldoneto/dio-experts-config.git
